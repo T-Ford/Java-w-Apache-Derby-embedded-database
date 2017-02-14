@@ -1,4 +1,5 @@
 /**
+ * Created by Tyler J Ford
  * This class is where Java connects to the created database and is able to perform the function on 
  * it which create queries that do the search for you
  */
